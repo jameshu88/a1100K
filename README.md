@@ -1,8 +1,8 @@
-# xA1100k - Flipper Zero Integration
+# a1100k - Flipper Zero Integration
 
 ## Overview
 
-**xA1100k** is an ethical On-Off Keying (OOK) hacking tool designed to brute-force garage door frequencies using de Bruijn's algorithm. This tool leverages the capabilities of the [Flipper Zero](https://flipperzero.one/) device to generate and transmit unique OOK signal sequences, ensuring comprehensive coverage of all possible frequency combinations within a 12-bit range (4096 possibilities).
+**a1100k** is an ethical On-Off Keying (OOK) hacking tool designed to brute-force garage door frequencies using de Bruijn's algorithm. This tool leverages the capabilities of the [Flipper Zero](https://flipperzero.one/) device to generate and transmit unique OOK signal sequences, ensuring comprehensive coverage of all possible frequency combinations within a 12-bit range (4096 possibilities).
 
 ## What is de Bruijn's Algorithm?
 A de Bruijn sequence for a given alphabet size and subsequence length is a cyclic sequence in which every possible 
