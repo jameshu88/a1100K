@@ -1,6 +1,6 @@
 
 ![](https://github.com/user-attachments/assets/0a1f9c9a-fe34-4888-9cdb-90da8fe19666)
-<p align="center"><b>Frequey, the official mascot of a1100k</b></p>
+<p align="center"><i>Frequey, the official mascot of a1100k</i></p>
 
 # a1100K - Radio Frequency Hacking Hub
 
