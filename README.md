@@ -91,23 +91,23 @@ The core functionality is provided by the de_brujin_generator.py script, which g
 
 After generating the .sub files, follow these steps to upload them to your Flipper Zero device:
 
-1. **Connect Flipper Zero to Your Computer**
+1.  **Connect Flipper Zero to Your Computer**
 
 Use a USB cable to connect your Flipper Zero device to your computer.
 
-2.**Access the Flipper Zero Storage**
+2.  **Access the Flipper Zero Storage**
 
 Once connected, Flipper Zero should appear as a removable storage device on your computer.
 
-3. **Navigate to the Sub-GHz Directory**
+3.  **Navigate to the Sub-GHz Directory**
 
 Open the Flipper Zero storage and navigate to the subGHz folder. The drive letter may vary based on your system (e.g., F:\subGHz\).
 
-4. **Copy the .sub Files**
+4.  **Copy the .sub Files**
 
 Transfer the generated .sub files from the flipper_zero directory to the subGHz folder on Flipper Zero.
 
-5. **Safely Disconnect**
+5.  **Safely Disconnect**
 
 Eject the Flipper Zero device to ensure all files are properly written before disconnecting.
 
