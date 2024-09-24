@@ -15,6 +15,10 @@ algorithm ensures that all possible frequency combinations are efficiently teste
   brute-forcing the target system.
 - **Optimized Performance**: Minimizes the time and resources needed for exhaustive testing by leveraging the mathematical 
   properties of de Bruijn sequences.
+
+
+Older garage door systems often use dip switches to set unique frequency codes. Each dip switch represents a binary value, allowing for a wide range of combinations. By using de Bruijn's algorithm, the xA1100k tool can efficiently generate OOK signal sequences that cover all possible dip switch configurations without unnecessary repetition. This comprehensive approach ensures that every potential dip switch setting is tested, increasing the chances of successfully brute-forcing the garage door frequency!
+
 ## Features
 
 - **De Bruijn Sequence Generation**: Efficiently generates all possible 12-bit OOK signal combinations without redundancy.
@@ -93,23 +97,25 @@ After generating the .sub files, follow these steps to upload them to your Flipp
 
 1.  **Connect Flipper Zero to Your Computer**
 
-Use a USB cable to connect your Flipper Zero device to your computer.
+  Use a USB cable to connect your Flipper Zero device to your computer.
 
 2.  **Access the Flipper Zero Storage**
 
-Once connected, Flipper Zero should appear as a removable storage device on your computer.
+  Once connected, Flipper Zero should appear as a removable storage device on your computer.
 
 3.  **Navigate to the Sub-GHz Directory**
 
-Open the Flipper Zero storage and navigate to the subGHz folder. The drive letter may vary based on your system (e.g., F:\subGHz\).
+  Open the Flipper Zero storage and navigate to the subGHz folder. The drive letter may vary based on your system (e.g., F:\subGHz\).
 
 4.  **Copy the .sub Files**
 
-Transfer the generated .sub files from the flipper_zero directory to the subGHz folder on Flipper Zero.
+  Transfer the generated .sub files from the flipper_zero directory to the subGHz folder on Flipper Zero.
 
 5.  **Safely Disconnect**
 
 Eject the Flipper Zero device to ensure all files are properly written before disconnecting.
+
+Hap
 
 ## Customization
 **Parameter Tweaking with Sliding Window**
