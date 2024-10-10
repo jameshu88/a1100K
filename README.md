@@ -10,7 +10,7 @@ One of the new projects in this repo is a **De-Bruijn-empowered radio frequency 
 
 ### Current Highlight: De-Bruijn Tool for Arduino & Flipper Zero
 
-This tool is a **Frequency Capturer and De-Bruijn Sequence Generator for Brute-Forcing & Replay Attacks on Cool Platforms** like Arduino and Flipper Zero. It enables frequency analysis, capturing, and brute-forcing through the efficient use of De-Bruijn sequences, perfect for exploring how everyday wireless devices might be compromised.
+This tool is a **Frequency Capturer and De-Bruijn Sequence Generator for Brute-Forcing & Replay Attacks on Cool Platforms** like Arduino and the Flipper Zero. It enables frequency analysis, capturing, and brute-forcing through the efficient use of De-Bruijn sequences, perfect for exploring how everyday wireless devices might be compromised.
 
 So far, this tool has been implemented on both the **Flipper Zero** and **Arduino** platforms. Feel free to check it out!
 
