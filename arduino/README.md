@@ -49,6 +49,7 @@ The De Bruijn sequence generator transmits all possible sequences of binary valu
 
 To adjust the sequence length, change the `SEQUENCE_LENGTH` variable in the code. By default, it is set to 4 bits, which generates 16 possible combinations.
 
-    ```cpp
+    ```
+    cpp
     #define SEQUENCE_LENGTH 4  // Number of bits for the De Bruijn sequence
     ```
